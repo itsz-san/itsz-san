@@ -7,7 +7,7 @@ and this project **may or may not** adhere to [Semantic Versioning](https://semv
 
 ## [0.0.1] - 2022-05-03
 
-## Added
+### Added
 - Added this CHANGELOG.md to keep track of changes to the repository
 
 ### Changed

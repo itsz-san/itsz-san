@@ -16,8 +16,10 @@ I'm running Ubuntu 22.04 LTS through Windows Subsystem for Linux(WSL). Frankly s
 
 ## Starship - Cross-shell Prompt
 Link: https://starship.rs
+
 I'm using starship to customise my prompt mostly because I'm a sucker for portable solutions. Currently, using it to prettify my bash terminal whilst I entertain the occasional fantasies of switching to zsh (for no good reason actually). Having said that, I'm still on the default starship configuration and haven't really mucked around to customising my prompt. Cause you know... it doesn't really matter.
 
 ### Neovim - hyperextensible VIm-based text editor
-Link: https:neovim.io
+Link: https://neovim.io
+
 In all honesty, I installed neovim without a just because apart from wanting to feel fancy. The use case that I am romanticizing frequently is to use neovim to drive a plain text personal knowledge management system. Currently, I'm swimming around looking to figure out how to manage plug-ins and wondering which ones to bother installing. 
